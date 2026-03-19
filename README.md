@@ -71,7 +71,7 @@ git push origin main
 ## 🔁 Updating Your Fork (IMPORTANT)
 Before every new assignment, sync your repo:
 ```
-git remote add upstream https://github.com/varunaditya27/CC-Web-Dev-Bootcamp-Submissions.git
+git remote add upstream https://github.com/shash-2106/CC-Web-Dev-Bootcamp-Submissions.git
 git pull upstream main
 git push origin main
 ```
